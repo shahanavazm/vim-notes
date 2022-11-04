@@ -1,7 +1,7 @@
 # vim-notes
 
 ## copy and paste
-use the following setting in vimrc to enable easy copy and paste between vim and other applications. 
+use the following setting in vimrc to enable easy copy and paste between vim and other applications.  
 set clipboard=unnamedplus 
 autocmd TerminalWinOpen * set clipboard=unnamedplus 
 
