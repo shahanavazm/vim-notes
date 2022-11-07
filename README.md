@@ -14,7 +14,7 @@ to paste from yank register (register 0) use "0p or "0P or ctrl r 0.
 so in summary consider + as the default register and 0 as the yank register.  
 frequently we need to copy a text to yank register and then clear it, then use: ygvc  
 
-## vim operator noun grammer:
+## vim operator grammer:
 operator ( motion | text-object )  
 operator = ["register] [repetition] ( d | c | y ...)  
 motion   = [repetition] ( h | l | j | k | w | b | /text | ?text | \`a ...)   
