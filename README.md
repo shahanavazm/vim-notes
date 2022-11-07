@@ -20,7 +20,7 @@ operator = ["register] [repetition] ( d | c | y ...)
 motion   = [repetition] ( h | l | j | k | w | b | /text | ?text | \`a ...)   
 text-object = [repetition] modifer object  
 modifier = a | i  
-object = w | W | p | s | ( | ) | { | } | [ | ] | " | ' | \`   
+object = w | W | p | s | ( | ) | { | } | [ | ] | " | ' | \`...   
   
 examples:  
 "02d2/text  
