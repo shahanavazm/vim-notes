@@ -4,7 +4,7 @@
 use the following setting in vimrc to enable easy copy and paste between vim and other applications.  
 set clipboard^=unnamed,unnamedplus  
 autocmd TerminalWinOpen * set clipboard^=unnamed,unnamedplus  
-l  
+
 with this setting in place, the following will happen:  
 when deleting with d, c, x or s, content is copied to registers ", * and +.  
 when yanking with y, content is copied to registers ", *, + and 0.  
