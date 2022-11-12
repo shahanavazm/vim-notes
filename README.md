@@ -26,3 +26,10 @@ examples:
 "02d2/text  
 "02d2aw  
 
+## navigation and text objects
+a frequet pattern that i use:  
+jump to a location using search, for example /{<CR>  
+use text objects to change a block, for example ci{  
+
+
+
