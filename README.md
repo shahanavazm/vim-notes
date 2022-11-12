@@ -29,7 +29,7 @@ examples:
 ## navigation and text objects
 a frequet pattern which works almost everyware:  
 jump to a location using search, for example /{<CR>  
-use text objects to change an area, for example ci{  
+use text objects to operate on an area, for example ci{  
 
 
 
