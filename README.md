@@ -27,7 +27,7 @@ examples:
 "02d2aw  
 
 ## navigation and text objects
-a frequet pattern which works almost everyware:  
+a frequet pattern which works almost everywhere:  
 jump to a location using search, for example /{<CR>  
 use text objects to operate on an area, for example ci{  
 
